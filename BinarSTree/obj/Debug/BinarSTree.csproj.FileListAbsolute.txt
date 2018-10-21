@@ -1,0 +1,7 @@
+C:\Users\Cenarius\source\repos\BinarSTree\BinarSTree\obj\Debug\BinarSTree.csprojAssemblyReference.cache
+C:\Users\Cenarius\source\repos\BinarSTree\BinarSTree\obj\Debug\BinarSTree.csproj.CoreCompileInputs.cache
+C:\Users\Cenarius\source\repos\BinarSTree\BinarSTree\bin\Debug\BinarSTree.exe.config
+C:\Users\Cenarius\source\repos\BinarSTree\BinarSTree\bin\Debug\BinarSTree.exe
+C:\Users\Cenarius\source\repos\BinarSTree\BinarSTree\bin\Debug\BinarSTree.pdb
+C:\Users\Cenarius\source\repos\BinarSTree\BinarSTree\obj\Debug\BinarSTree.exe
+C:\Users\Cenarius\source\repos\BinarSTree\BinarSTree\obj\Debug\BinarSTree.pdb
